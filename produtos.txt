@@ -1,0 +1,77 @@
+1   Chai                          18.00 39  10  
+2   Chang                         19.00 17  25
+3   Aniseed Syrup                 10.00 13  25
+4   Chef Anton's Cajun Seasoning  22.00 53  0
+5   Chef Anton's Gumbo Mix        21.35 0   0
+6   Grandma's Boysenberry Spread  25.00 120 25
+7   Uncle Bob's Organic Dried Pear30.00 15  10
+8   Northwoods Cranberry Sauce    40.00 6   0
+9   Mishi Kobe Niku               97.00 29  0
+10  Ikura                         31.00 31  0
+11  Queso Cabrales                21.00 22  30
+12  Queso Manchego La Pastora     38.00 86  0
+13  Konbu                         6.00  24  5
+14  Tofu                          23.25 35  0
+15  Genen Shouyu                  15.50 39  5
+16  Pavlova                       17.45 29  10
+17  Alice Mutton                  39.00 0   0
+18  Carnarvon Tigers              62.50 42  0
+19  Teatime Chocolate Biscuits    9.20  25  5
+20  Sir Rodney's Marmalade        81.00 40  0
+21  Sir Rodney's Scones           10.00 3   5
+22  Gustaf's Kn�ckebr�d           21.00 104 25
+23  Tunnbr�d                      9.00  61  25
+24  Guaran� Fant�stica            4.50  20  0
+25  NuNuCa Nu�-Nougat-Creme       14.00 76  30
+26  Gumb�r Gummib�rchen           31.23 15  0
+27  Schoggi Schokolade            43.90 49  30
+28  R�ssle Sauerkraut             45.60 26  0
+29  Th�ringer Rostbratwurst       123.790   0
+30  Nord-Ost Matjeshering         25.89 10  15
+31  Gorgonzola Telino             12.50 0   20
+32  Mascarpone Fabioli            32.00 9   25
+33  Geitost                       2.50  112 20
+34  Sasquatch Ale                 14.00 111 15
+35  Steeleye Stout                18.00 20  15
+36  Inlagd Sill                   19.00 112 20
+37  Gravad lax                    26.00 11  25
+38  C�te de Blaye                 263.5017  15
+39  Chartreuse verte              18.00 69  5
+40  Boston Crab Meat              18.40 123 30
+41  Jack's New England Clam Chowde9.65  85  10
+42  Singaporean Hokkien Fried Mee 14.00 26  0
+43  Ipoh Coffee                   46.00 17  25
+44  Gula Malacca                  19.45 27  15
+45  R�gede sild                   9.50  5   15
+46  Spegesild                     12.00 95  0
+47  Zaanse koeken                 9.50  36  0
+48  Chocolade                     12.75 15  25
+49  Maxilaku                      20.00 10  15
+50  Valkoinen suklaa              16.25 65  30
+51  Manjimup Dried Apples         53.00 20  10
+52  Filo Mix                      7.00  38  25
+53  Perth Pasties                 32.80 0   0
+54  Tourti�re                     7.45  21  10
+55  P�t� chinois                  24.00 115 20
+56  Gnocchi di nonna Alice        38.00 21  30
+57  Ravioli Angelo                19.50 36  20
+58  Escargots de Bourgogne        13.25 62  20
+59  Raclette Courdavault          55.00 79  0
+60  Camembert Pierrot             34.00 19  0
+61  Sirop d'�rable                28.50 113 25
+62  Tarte au sucre                49.30 17  0
+63  Vegie-spread                  43.90 24  5
+64  Wimmers gute Semmelkn�del     33.25 22  30
+65  Louisiana Fiery Hot Pepper Sau21.05 76  0
+66  Louisiana Hot Spiced Okra     17.00 4   20
+67  Laughing Lumberjack Lager     14.00 52  10
+68  Scottish Longbreads           12.50 6   15
+69  Gudbrandsdalsost              36.00 26  15
+70  Outback Lager                 15.00 15  30
+71  Fl�temysost                   21.50 26  0
+72  Mozzarella di Giovanni        34.80 14  0
+73  R�d Kaviar                    15.00 101 5
+74  Longlife Tofu                 10.00 4   5
+75  Rh�nbr�u Klosterbier          7.75  125 25
+76  Lakkalik��ri                  18.00 57  20
+77  Original Frankfurter gr�ne So�13.00 32  15
