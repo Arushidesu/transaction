@@ -1,7 +1,7 @@
 # Transaction
 
-## Como funciona?
-  Basicamente, o programa serve para gerenciar transações de compra e venda de produtos. As transações são armazenadas no arquivo **transaction.txt** e é baseado nos produtos presentes no arquivo **produtos.txt**. 
-  Quando ocorre a compra de um produto, o programa adiciona no estoque dos produtos e quando há venda, subtrai. 
+## How it works?
+  Basically, the program is used to manage product buying and selling transactions. Transactions are stored in the **transaction.txt** file and are based on the products present in the **products.txt** file.
+  When the purchase of a product occurs, the program adds in the stock of products and when there is sale, subtract. 
 
-Código criado para uma atividade de Algoritmo e Programação Estruturada, do curso Sistemas para Internet do Instituto Federal da Paraíba.
+Code created for an _Algoritmo e Programação Estruturada_ activity of the _Sistemas para Internet_ course of the _Instituto Federal da Paraíba_.
